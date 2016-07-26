@@ -1,0 +1,20 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#textbox{
+    width: 20%;
+    height: 400px;
+    background: gray;
+    margin: 100px auto;
+    padding: 5%  10%; 
+    border: 1px , solid ,red;
+    border-radius: 10%;
+    
+ }
+ #email ,#name ,#pass{
+          width: 100%;
+          height: 30px;
+          border-radius: 20%
+ }
+
